@@ -128,7 +128,7 @@ With this structure, if an instance of `Lizard` replaced an instance of
 `LeggedReptile` _or_ `Reptile`, it will work correctly. The same goes for an
 instance of `Snake`.
 
-> Why does this work? We've removed some of behavior of `Reptile`. An instance
+> Why does this work? We've removed some of the behavior of `Reptile`. An instance
 > of `Reptile` will never be required to utilize a method it hasn't defined or
 > inherited.
 
