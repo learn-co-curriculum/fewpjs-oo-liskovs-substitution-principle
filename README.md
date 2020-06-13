@@ -30,7 +30,7 @@ replaceable with an instance of a child class.**
 
 If we follow this principle, the consequence is that properties and methods that
 exist on the parent will never be modified in any child. Child classes can
-_expand_ upon what they inherited, adding methods or extra properties, do not
+_expand_ upon what they inherited, adding methods or extra properties, but do not
 modify what they inherited.
 
 If you need to modify a child's inherited properties or methods, why are we
