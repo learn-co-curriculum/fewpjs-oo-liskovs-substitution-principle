@@ -1,0 +1,6 @@
+---
+:lessons:
+- :id: 12431
+  :course_id: 357
+  :canvas_url: https://learning.flatironschool.com/courses/357/pages/liskovs-substitution-principle
+  :type: page
